@@ -7,22 +7,18 @@ add_to_cart - a function updates the cart python dictionary object
 print_cart - a function which prints the items in cart
 
 1. Shows the available flavors
-   ![image](https://github.com/user-attachments/assets/15d2dbec-6177-4bbd-8ffc-0cbbac6e9371)
-   
-   ![image](https://github.com/user-attachments/assets/437cd45b-0277-496e-82d6-409ef04f29fe)
+![image](https://github.com/user-attachments/assets/807c9f02-9689-4703-908a-0df42b2dfe71)
 
-3. Search and Filter
-   Search:
-   ![image](https://github.com/user-attachments/assets/a53cd3e2-addd-4211-b8d7-aa5a26f056f5)
-   
-   ![image](https://github.com/user-attachments/assets/fc9c18f8-9e47-47ed-8ce9-d1e07215638a)
+2. Search and Filter
+Search:
+![image](https://github.com/user-attachments/assets/9ae27f1e-0f3f-48e6-afe9-6019d6553c9a)
 
-   Filter:
-   Filter by price:
-   ![image](https://github.com/user-attachments/assets/d24268f3-8abc-4748-a7b9-fa227ab34149)
-   
-   Filter by brand:
-   ![image](https://github.com/user-attachments/assets/11f27ba8-4cbf-4d57-8f7f-4f11e874ff1a)
+Filter:
+Filter by price:
+![image](https://github.com/user-attachments/assets/4db9c495-b312-46cc-a9ea-be4a2dc03ffc)
+
+Filter by brand:
+![image](https://github.com/user-attachments/assets/4cfbe83d-85ef-4f46-b419-e6ad06284feb)
 
 
 
